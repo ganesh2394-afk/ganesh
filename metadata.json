@@ -1,0 +1,6 @@
+{
+  "name": "Campus Connect",
+  "description": "Your campus, simplified. Class timetables, attendance tracking, and campus events for Apex University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
